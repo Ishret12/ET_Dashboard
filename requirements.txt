@@ -1,0 +1,9 @@
+panel>=1.3.0
+pandas>=1.5.0
+hvplot>=0.9.0
+geopandas>=0.14.0
+folium>=0.15.0
+plotly>=5.18.0
+matplotlib>=3.7.0
+bokeh>=3.3.0
+holoviews>=1.18.0

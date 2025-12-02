@@ -539,5 +539,4 @@ template = pn.template.FastListTemplate(
 
 template.servable()
 
-# panel serve dashboard_fixed.py --show --autoreload
-
+# panel serve dashboard.py --show --autoreload --port 5007
